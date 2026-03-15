@@ -90,4 +90,4 @@ A dedicated form for manual entry.
 MIT License - Copyright (c) 2026
 
 ---
-*Developed with ❤️ by Antigravity*
+*Developed with ❤️ by Sanjay36yt*
