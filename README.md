@@ -20,10 +20,10 @@
 
 ## 🚀 Download Final APK
 
-[<img src="https://img.shields.io/badge/Download-Task__record.apk-7C4DFF?style=for-the-badge&logo=android&logoColor=white" height="40">](./build/app/outputs/flutter-apk/Task_record.apk)
+[<img src="https://img.shields.io/badge/Download-Task__record.apk-7C4DFF?style=for-the-badge&logo=android&logoColor=white" height="40">](./release/Task_record.apk)
 
 You can find the ready-to-install Android build here:
-👉 **[Click here to download Task_record.apk](./build/app/outputs/flutter-apk/Task_record.apk)**
+👉 **[Click here to download Task_record.apk](./release/Task_record.apk)**
 
 ---
 
