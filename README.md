@@ -6,15 +6,9 @@
 
 ## 📸 Screenshots
 
-````carousel
-![Dashboard](./assets/screenshots/dashboard.jpg)
-<!-- slide -->
-![Add Task Details](./assets/screenshots/add_task_1.jpg)
-<!-- slide -->
-![Add Task Recording](./assets/screenshots/add_task_2.jpg)
-<!-- slide -->
-![Home Screen Widget](./assets/screenshots/widget.jpg)
-````
+| Dashboard | Add Task Details | Add Task Recording | Home Screen Widget |
+| :---: | :---: | :---: | :---: |
+| ![Dashboard](./assets/screenshots/dashboard.jpg) | ![Add Task Details](./assets/screenshots/add_task_1.jpg) | ![Add Task Recording](./assets/screenshots/add_task_2.jpg) | ![Home Screen Widget](./assets/screenshots/widget.jpg) |
 
 ---
 
