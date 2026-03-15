@@ -4,9 +4,26 @@
 
 ---
 
+## 📸 Screenshots
+
+````carousel
+![Dashboard](./assets/screenshots/dashboard.jpg)
+<!-- slide -->
+![Add Task Details](./assets/screenshots/add_task_1.jpg)
+<!-- slide -->
+![Add Task Recording](./assets/screenshots/add_task_2.jpg)
+<!-- slide -->
+![Home Screen Widget](./assets/screenshots/widget.jpg)
+````
+
+---
+
 ## 🚀 Download Final APK
+
+[<img src="https://img.shields.io/badge/Download-Task__record.apk-7C4DFF?style=for-the-badge&logo=android&logoColor=white" height="40">](./build/app/outputs/flutter-apk/Task_record.apk)
+
 You can find the ready-to-install Android build here:
-👉 **[Download Task_record.apk](d:/Android/task_recorder/build/app/outputs/flutter-apk/Task_record.apk)**
+👉 **[Click here to download Task_record.apk](./build/app/outputs/flutter-apk/Task_record.apk)**
 
 ---
 
