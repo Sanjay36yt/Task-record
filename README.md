@@ -20,10 +20,10 @@
 
 ## 🚀 Download Final APK
 
-[<img src="https://img.shields.io/badge/Download-Task__record.apk-7C4DFF?style=for-the-badge&logo=android&logoColor=white" height="40">](./release/Task_record.apk)
+[<img src="https://img.shields.io/badge/Download-Task__record.apk-7C4DFF?style=for-the-badge&logo=android&logoColor=white" height="40">](https://github.com/Sanjay36yt/Task-record/raw/main/release/Task_record.apk)
 
 You can find the ready-to-install Android build here:
-👉 **[Click here to download Task_record.apk](./release/Task_record.apk)**
+👉 **[Click here to download Task_record.apk](https://github.com/Sanjay36yt/Task-record/raw/main/release/Task_record.apk)**
 
 ---
 
@@ -79,7 +79,7 @@ A dedicated form for manual entry.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/task-record.git
+   git clone https://github.com/Sanjay36yt/Task-record.git
    ```
 2. **Install dependencies**:
    ```bash
