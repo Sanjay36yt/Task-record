@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="36dp"
+    android:background="@drawable/widget_task_row_bg"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:paddingLeft="4dp"
+    android:paddingRight="6dp">
+
+    <!-- Green left accent bar -->
+    <ImageView
+        android:layout_width="3dp"
+        android:layout_height="28dp"
+        android:layout_marginRight="8dp"
+        android:background="@drawable/widget_green_indicator" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/row_task_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="Task Name"
+            android:textColor="#FFFFFF"
+            android:textSize="11sp"
+            android:textStyle="bold" />
+
+        <Chronometer
+            android:id="@+id/row_task_elapsed"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#4CAF50"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/row_task_btn"
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:background="@drawable/widget_stop_btn"
+        android:gravity="center"
+        android:text="■"
+        android:textColor="#FFFFFF"
+        android:textSize="10sp" />
+</LinearLayout>
